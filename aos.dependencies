@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository":  "AKabhishek/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "oreo"
+  },
+  {
+    "remote": "github",
+    "repository":  "AKabhishek/kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch":      "oreo-nucleon"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "staging/lineage-15.1"
+  }
+]
